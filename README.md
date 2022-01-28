@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @puspendudas
 - 👀 I’m interested in Vue 3
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently freelancing ...
 - 💞️ I’m looking to collaborate on github.com/puspendudas/
 - 📫 How to reach me puspenduofficial@gmail.com
 
